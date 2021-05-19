@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-1.8" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="selenium-server-standalone-3.141.59.jar" scope="COMPILE">
+		<srcroot url="file:///E-Commerce WebApp"/>
+	</lib>
+</component>
