@@ -48,6 +48,7 @@ public class TestGuru99Login {
 		Assert.assertTrue(objManagersPage.getManagerPageMsg().toLowerCase().contains("manager id : mngr323925"));
 		//Assert.assertEquals(objManagersPage.getManagerPageMsg(), "Manager Id : mngr323925");
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		System.out.println();
 	}
 	
 }
